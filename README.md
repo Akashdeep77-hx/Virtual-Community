@@ -2,7 +2,6 @@
 
 This is a Flutter-based Social Media App with a sleek and modern design.
 
-![image](https://user-images.githubusercontent.com/67297759/190064136-5f096750-e957-4817-8372-145b537d7a88.png)
 ![image](https://user-images.githubusercontent.com/67297759/190063284-25aac6bf-c869-4925-be56-83117027e207.png)
 
 ## Installation
