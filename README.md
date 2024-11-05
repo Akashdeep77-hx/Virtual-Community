@@ -13,7 +13,7 @@ To get started, you need to have [Flutter](https://flutter.dev/docs/get-started/
 
 ## Credits
 
-- [Sajon](https://dribbble.com/sajon) for the original [Social Media App Design](https://dribbble.com/shots/15468493-Social-Media-App)
+- For the original [Social Media App Design](https://dribbble.com/shots/15468493-Social-Media-App)
 - [Flutter](https://flutter.dev) for providing an amazing cross-platform framework.
 
 ## License
